@@ -1,6 +1,6 @@
 # AI Fact Checking Web App
 
-App Link - https://github.com/khushigaur01/fact-checker-app/edit/main/README.md
+App Link - https://fact-checker-app-lke5ddazq72uimkzebujgi.streamlit.app/
 
 
 ## Features
